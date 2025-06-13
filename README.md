@@ -24,10 +24,6 @@ Paste-It helps simplify your digital life with an intuitive interface to create,
 - **Tailwind CSS**
 - **Lucide Icons**
 
-## 📦 Getting Started
-
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/paste-it.git
-```
-
+## 🎉 Acknowledgments
+Thank you for using Paste-It!
+Your support and feedback mean a lot. ❤️
